@@ -1,6 +1,6 @@
 # Girthos
 
-### What can not be tracked, can't be improved.
+### What can't be tracked, can't be improved.
 
 Track your muscle (girth) size
 

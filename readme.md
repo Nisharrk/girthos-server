@@ -6,4 +6,4 @@ Track your muscle (girth) size
 
 ---
 
-[ This repo was a server for Girthos. It is now deprectaed. Now moving to T3 Stack - https://github.com/Nisharrk/girthos ]
+[ This repo was a server for Girthos. It is now deprectaed. Now moving to NextJS - https://github.com/Nisharrk/girthos ]
